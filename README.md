@@ -49,7 +49,7 @@ tic-tac-toe/
 1. Download or clone the repository
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe.git
+https://github.com/neerajakondala3-alt/SCT_WD_3
 ```
 
 2. Open the project folder
